@@ -1,2 +1,2 @@
 # menterrepo
-studentrepo
+mentor repo description
